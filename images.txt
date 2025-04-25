@@ -1,2 +1,6 @@
 vulnerables/web-dvwa
 c0ny1/upload-labs
+vulfocus/sqli-labs
+vulfocus/xss-labs
+area39/pikachu
+p0desta/vulhub
