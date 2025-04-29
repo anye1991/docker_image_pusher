@@ -4,3 +4,4 @@ vulfocus/sqli-labs
 vulfocus/xss-labs
 area39/pikachu
 p0desta/vulhub:jenkins
+webgoat/webgoat
