@@ -5,3 +5,4 @@ vulfocus/xss-labs
 area39/pikachu
 p0desta/vulhub:jenkins
 webgoat/webgoat
+bkimminich/juice-shop
